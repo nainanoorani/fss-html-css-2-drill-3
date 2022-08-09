@@ -1,0 +1,60 @@
+*{ 
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 130vh;
+    overflow: hidden;
+}
+.page-container{
+    height:100%;
+}
+.nav-bar{
+    height:5vh;
+    padding: 1rem;
+    background-color: lightgrey;
+}
+#small-box{
+    padding: 5px;
+    background-color: blue;
+    width: 35px;
+    height:35px;
+}
+#rando-text{
+    height:18%;
+    padding: 25px;
+    font-size: 0.65rem;
+}
+
+#darker-blue{
+    height:16%;
+    padding: 50px;
+    background-color: rgb(59, 135, 235);
+}
+#greener-blue{
+    height:16%;
+    padding: 50px;
+    background-color: rgb(18, 233, 212);
+}
+#greenish-yellow{
+    height:16%;
+    padding: 50px;
+    background-color: rgb(197, 241, 95);
+}
+#yellow{
+    height:16%;
+    padding: 50px;
+    background-color: rgb(232, 245, 57);
+}
+#question-mark{
+    background-color:black;
+    padding: 6px;
+    width:25px;
+    height: 25px;
+    border-radius: 100%;
+    color: white;
+    text-align: center;
+    position: absolute;
+    bottom: 5px;
+    right:5px;
+}
